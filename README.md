@@ -1,5 +1,4 @@
-# My personal Website 
-http://shivamelam.com
+# My personal Website
 
 
 ## Created using  
