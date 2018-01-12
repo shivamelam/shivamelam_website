@@ -2,8 +2,9 @@
 http://shivamelam.com
 
 
-## Created using Particle.js and Jekyll 
-
+## Created using  
+ - [Particle.JS](http://vincentgarreau.com/particles.js/)
+ - [Jekyll](https://jekyllrb.com/)
 
 ## Credits
 - [Willian Justen](https://github.com/willianjusten)
